@@ -10,43 +10,58 @@ export const BRAND: BrandInfo = {
 export const CERTIFICATES: Certificate[] = [
   {
     id: "0",
-    title: "Cybersecurity & Ethical Hacking Internship",
-    issuer: "CODETECH IT SOLUTIONS",
-    date: "Feb - June 2025",
-    imageUrl: "/images/CTINTERN.jpg",
-    description: "Advanced certification for organizational agility and lean management."
+    title: "Programming contest on C-Language",
+    issuer: "The Codathon",
+    date: "November 2023",
+    imageUrl: "/images/Certificate(codathon).jpg",
+    description: "The participation certificate for the programming contest on C-Language where they allow us to solve different types of problems and learn new things."
   },
   {
     id: "1",
-    title: "Webdevelopment",
-    issuer: "Next24Tech",
-    date: "May - July 2024",
-    imageUrl: "/images/Internship.jpg",
-    description: "Completed a comprehensive Remote internship program focused on webdevelopment concepts, technologies, and best practices."
+    title: "Infomatix-Cod-A-Thon 2k24",
+    issuer: "IT branch",
+    date: "23rd,24th Augest-2024",
+    imageUrl: "/images/InfomaTrix.jpeg",
+    description: "The participation certificate for the Infomatix-Cod-A-Thon 2k24."
   },
   {
     id: "2",
-    title: "Data Engineering Virtual Internship",
-    issuer: "AICTE",
-    date: "April - June 2024",
-    imageUrl: "/images/coh-8.jpg",
-    description: "Completed a comprehensive virtual internship program focused on data engineering concepts, technologies, and best practices."
+    title: "Math Olympiad",
+    issuer: "IIT Kharagpur-KSHITIJ",
+    date: "2023",
+    imageUrl: "/images/Matholy.jpg",
+    description: "The participation certificate for the Math Olympiad."
   },
   {
     id: "3",
-    title: "AICTE Cloud Virtual Internship",
-    issuer: "AICTE",
-    date: "January - March,2024",
-    imageUrl: "/images/aicte cloud.jpg",
-    description: "Completed a comprehensive virtual internship program focused on cloud computing concepts, technologies, and best practices."
+    title: "Source Code",
+    issuer: "IIT Kharagpur-KSHITIJ",
+    date: "2023",
+    imageUrl: "/images/sourcecode.jpg",
+    description: "The participation certificate for the Source Code."
   },
   {
     id: "4",
-    title: "Android Developer Virtual Internship",
-    issuer: "AICTE",
-    date: "Sept - Nov 2023",
-    imageUrl: "/images/aicte cohart-6.jpg",
-    description: "Completed a comprehensive virtual internship program focused on android development concepts, technologies, and best practices."
+    title: "Student Technical Advisor",
+    issuer: "R.V.R & J.C. College of Engineering",
+    date: "2024",
+    imageUrl: "/images/STA.jpeg",
+    description: "I Recived Name as Student Technical Advisor after contribution in the college for 3 years."
   },
-
+  {
+    id: "5",
+    title: "Lead Designer",
+    issuer: "R.V.R & J.C. College of Engineering",
+    date: "2023",
+    imageUrl: "/images/Team Leader and incharge.jpeg",
+    description: "I Recived Name as Lead Designer after contribution in the college for 2 years."
+  },
+  {
+    id: "6",
+    title: "Designer",
+    issuer: "R.V.R & J.C. College of Engineering",
+    date: "2023",
+    imageUrl: "/images/Video Editor.jpeg",
+    description: "I Recived Name as Designer after contribution in the college in photo editing and video editing with latest softwares."
+  }
 ];
