@@ -13,7 +13,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Foundation of Cybersecurity",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cs-1.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cs-1.jpg",
     description: "The Training certificate for the Foundation of Cybersecurity Lesson-1."
   },
   {
@@ -21,7 +21,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Play at safe:Manage security and Risk",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cs-2.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cs-2.jpg",
     description: "The Training certificate for the Play at safe Lesson-2."
   },
   {
@@ -29,7 +29,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Connect and Protect: Networks and Network Security",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cs-3.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cs-3.jpg",
     description: "The Training certificate for the Connect and Protect: Networks and Network Security Lesson-3."
   },
   {
@@ -37,7 +37,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Tools of the Trade: Linux & SQL",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cp-4.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cp-4.jpg",
     description: "The Training certificate for the Tools of the Trade: Linux & SQL Lesson-4."
   },
   {
@@ -45,7 +45,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Assests,Threats & Vulnablities",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cp-5.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cp-5.jpg",
     description: "The Training certificate for the Assests,Threats & Vulnablities Lesson-5."
   },
   {
@@ -53,7 +53,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Sound the alarm: Detection & Response",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera CS FINAL.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera CS FINAL.jpg",
     description: "The Training certificate for the Sound the alarm: Detection & Response Lesson-6."
   },
   {
@@ -61,7 +61,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Automation with Python",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cp-7.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cp-7.jpg",
     description: "The Training certificate for the Sound the alarm: Detection & Response Lesson-7."
   },
   {
@@ -69,7 +69,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Put it to Work: IT Career Readiness",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera cp-8.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera cp-8.jpg",
     description: "The Training certificate for the Put it to Work: IT Career Readiness Lesson-8 and Final lesson of the course."
   },
   {
@@ -77,7 +77,7 @@ export const CERTIFICATES: Certificate[] = [
     title: "Final Certificate after completing all the lessons",
     issuer: "Google",
     date: "",
-    imageUrl: "/images/Coursera CS FINAL.jpg",
+    imageUrl: "/GoogleCertification/images/Coursera CS FINAL.jpg",
     description: "The Final certificate after completing all the lessons of the course."
   }
 ];
