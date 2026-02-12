@@ -2,7 +2,7 @@
 import { Certificate, BrandInfo } from './types';
 
 export const BRAND: BrandInfo = {
-  name: "College event Certificates",
+  name: "Course Completion Certificates",
   tagline: "Step Up, Stand Out, Succeed",
   logoColor: "bg-indigo-600"
 };
@@ -10,58 +10,74 @@ export const BRAND: BrandInfo = {
 export const CERTIFICATES: Certificate[] = [
   {
     id: "0",
-    title: "Programming contest on C-Language",
-    issuer: "The Codathon",
-    date: "November 2023",
-    imageUrl: "/images/Certificate_Codathon.jpg",
-    description: "The participation certificate for the programming contest on C-Language where they allow us to solve different types of problems and learn new things."
+    title: "Foundation of Cybersecurity",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cs-1.jpg",
+    description: "The Training certificate for the Foundation of Cybersecurity Lesson-1."
   },
   {
     id: "1",
-    title: "Infomatix-Cod-A-Thon 2k24",
-    issuer: "IT branch",
-    date: "23rd,24th Augest-2024",
-    imageUrl: "/images/InformaTrix.jpeg",
-    description: "The participation certificate for the Infomatix-Cod-A-Thon 2k24."
+    title: "Play at safe:Manage security and Risk",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cs-2.jpg",
+    description: "The Training certificate for the Play at safe Lesson-2."
   },
   {
     id: "2",
-    title: "Math Olympiad",
-    issuer: "IIT Kharagpur-KSHITIJ",
-    date: "2023",
-    imageUrl: "/images/Matholy.jpg",
-    description: "The participation certificate for the Math Olympiad."
+    title: "Connect and Protect: Networks and Network Security",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cs-3.jpg",
+    description: "The Training certificate for the Connect and Protect: Networks and Network Security Lesson-3."
   },
   {
     id: "3",
-    title: "Source Code",
-    issuer: "IIT Kharagpur-KSHITIJ",
-    date: "2023",
-    imageUrl: "/images/Sourcecode.jpg",
-    description: "The participation certificate for the Source Code."
+    title: "Tools of the Trade: Linux & SQL",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cp-4.jpg",
+    description: "The Training certificate for the Tools of the Trade: Linux & SQL Lesson-4."
   },
   {
     id: "4",
-    title: "Student Technical Advisor",
-    issuer: "R.V.R & J.C. College of Engineering",
-    date: "2024",
-    imageUrl: "/images/STA.jpeg",
-    description: "I Recived Name as Student Technical Advisor after contribution in the college for 3 years."
+    title: "Assests,Threats & Vulnablities",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cp-5.jpg",
+    description: "The Training certificate for the Assests,Threats & Vulnablities Lesson-5."
   },
   {
     id: "5",
-    title: "Lead Designer",
-    issuer: "R.V.R & J.C. College of Engineering",
-    date: "2023",
-    imageUrl: "/images/Team_Leader_and_Incharge.jpeg",
-    description: "I Recived Name as Lead Designer after contribution in the college for 2 years."
+    title: "Sound the alarm: Detection & Response",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera CS FINAL.jpg",
+    description: "The Training certificate for the Sound the alarm: Detection & Response Lesson-6."
   },
   {
     id: "6",
-    title: "Designer",
-    issuer: "R.V.R & J.C. College of Engineering",
-    date: "2023",
-    imageUrl: "/images/Video_Editor.jpeg",
-    description: "I Recived Name as Designer after contribution in the college in photo editing and video editing with latest softwares."
+    title: "Automation with Python",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cp-7.jpg",
+    description: "The Training certificate for the Sound the alarm: Detection & Response Lesson-7."
+  },
+  {
+    id: "7",
+    title: "Put it to Work: IT Career Readiness",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera cp-8.jpg",
+    description: "The Training certificate for the Put it to Work: IT Career Readiness Lesson-8 and Final lesson of the course."
+  },
+  {
+    id: "8",
+    title: "Final Certificate after completing all the lessons",
+    issuer: "Google",
+    date: "",
+    imageUrl: "/images/Coursera CS FINAL.jpg",
+    description: "The Final certificate after completing all the lessons of the course."
   }
 ];

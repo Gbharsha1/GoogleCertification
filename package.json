@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gbharsha1.github.io/RVRJC-CERTIFICATES-SITE",
+  "homepage": "https://Gbharsha1.github.io/GoogleCertification",
   "scripts": {
     "dev": "vite",
     "build": "vite build && node rename-output.js",
