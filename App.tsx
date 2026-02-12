@@ -24,10 +24,10 @@ const App: React.FC = () => {
     <div className="min-h-screen relative selection:bg-indigo-100 selection:text-indigo-900">
       <MAnchor
         href="https://Gbharsha1.github.io/"
-        initial={{ opacity: 0, x: -20 }}
-        animate={{ opacity: 1, x: 0 }}
+        initial={{ x: -20 }}
+        animate={{ x: 0 }}
         transition={{ delay: 0.5 }}
-        className="fixed top-6 left-6 z-50 p-3 bg-white/80 backdrop-blur-md border border-white/50 shadow-lg rounded-full text-slate-600 hover:text-indigo-600 hover:scale-110 transition-all duration-300 group"
+        className="fixed top-6 left-6 z-[100] p-3 bg-white/80 backdrop-blur-md border border-white/50 shadow-lg rounded-full text-slate-600 hover:text-indigo-600 hover:scale-110 transition-all duration-300 group"
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
       >
