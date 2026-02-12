@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Gbharsha1.github.io/Internship-certificates",
+  "homepage": "https://Gbharsha1.github.io/RVRJC-CERTIFICATES-SITE",
   "scripts": {
     "dev": "vite",
     "build": "vite build && node rename-output.js",
