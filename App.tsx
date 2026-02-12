@@ -36,7 +36,7 @@ const App: React.FC = () => {
       <div className="fixed inset-0 z-0">
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: `url(${import.meta.env.BASE_URL}images/Internships.jpg)` }}
+          style={{ backgroundImage: `url(${import.meta.env.BASE_URL}images/Certificateday.JPG)` }}
         />
         <div className="absolute inset-0 bg-white/70 backdrop-blur-sm" />
       </div>

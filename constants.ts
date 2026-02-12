@@ -2,7 +2,7 @@
 import { Certificate, BrandInfo } from './types';
 
 export const BRAND: BrandInfo = {
-  name: "Internships Certificates",
+  name: "College event Certificates",
   tagline: "Step Up, Stand Out, Succeed",
   logoColor: "bg-indigo-600"
 };
